@@ -16,3 +16,4 @@ Enter "help" below or click "Help" above for more information.
 ... >>> # Print the final sentence
 ... >>> print(s)
 ... It is raining cats and dogs
+(the # explaines what the planning proccess is and how i do it)
